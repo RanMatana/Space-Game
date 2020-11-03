@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "757961785447",
+    "firebase_url": "https://space-game-bc594.firebaseio.com",
+    "project_id": "space-game-bc594",
+    "storage_bucket": "space-game-bc594.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:757961785447:android:bc56ed3f98a589761394c2",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "757961785447-fo0hma92b5cini2ukiv6set40hqp9baa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myapplication",
+            "certificate_hash": "efb3db86e41e1d070cc913d4c3f97a2ac69090ed"
+          }
+        },
+        {
+          "client_id": "757961785447-691v7b5iaok8pj9tr6cgp9sn20j5fbos.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe_ujiXm-GwYhSWHsQLW0mhY0xkhGGZ0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "757961785447-691v7b5iaok8pj9tr6cgp9sn20j5fbos.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
